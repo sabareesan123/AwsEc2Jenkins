@@ -11,7 +11,7 @@ public class HelloResource {
 	@GetMapping
 	public String greet()
 	{
-		return "hello";
+		return "hello Welcome";
 	}
 
 }

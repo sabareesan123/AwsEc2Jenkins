@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>AwsEc2TomcatJenkinsGithubMavenSpringBootJava11</artifactId>
+	<artifactId>AwsEc2Jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>AwsEc2TomcatJenkinsGithubMavenSpringBootJava11</name>
+	<name>AwsEc2Jenkins</name>
 	<description>Demo project for Spring Boot Jenkins AWS EC2 Tomcat Maven Java 11 Example</description>
 	<properties>
 		<java.version>11</java.version>
